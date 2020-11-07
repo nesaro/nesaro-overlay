@@ -1,0 +1,17 @@
+<overlay
+type    = "git"
+src     = "file:///home/nesaro/inform/nesaro-overlay/git"
+contact = "nesaro@gmail.com"
+status  = "official"
+repo_name = "nesaro"
+name    = "nesaro">
+
+<link>
+http://nesaro.blogspot.com
+</link>
+
+<description>
+My overlay
+</description>
+
+</overlay>
